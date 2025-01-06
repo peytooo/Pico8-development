@@ -2,6 +2,8 @@
 
 A brief description of your Pico-8 game, what it does, and who it's for.
 
+https://github.com/peytooo/Pico8-development/blob/main/PICO-8_10.gif
+
 ---
 
 ## Table of Contents
@@ -81,6 +83,8 @@ Guidelines for contributing to the project.
 
 ## License:
 
-Created using Pico-8 [[https://www.lexaloffle.com/pico-[]()8.php]]
+Created using Pico-8 
+
+https://github.com/peytooo/Pico8-development/blob/main/pico8_edu_release.gif
 
 ![[pico8_edu_release.gif]]
